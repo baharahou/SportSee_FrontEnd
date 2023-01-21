@@ -1,0 +1,14 @@
+.home{
+    margin-left: 10rem;
+    margin-top: 2rem;
+    
+}
+.home_user{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    gap: 1rem;
+}
+.home_user-NAme{
+    color: #FF0101;
+}
