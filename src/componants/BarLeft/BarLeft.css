@@ -17,18 +17,16 @@ align-items: center;
 display: flex;
 flex-direction: column;
 row-gap: 1rem;
-
 align-items: center;
 }
+
 .left__icons__icon img{
 border-radius: 10%;
 }
+
 .left__copyright{
    
     position: absolute;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
     font-size: 12px;
     line-height: 24px;
     width: max-content;

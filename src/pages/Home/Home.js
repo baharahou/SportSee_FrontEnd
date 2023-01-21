@@ -1,12 +1,12 @@
 import React from "react";
+import Welcome from "../../componants/Welcome/Welcome";
 import "./Home.css";
+
 function Home() {
   return (
     <div className="home">
-      <div className="home_user">
-        <h1>Bonjour </h1>
-        <h1 className="home_user-NAme">Thomas </h1>
-      </div>
+      <Welcome />
+      welcome
     </div>
   );
 }
